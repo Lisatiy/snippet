@@ -56,5 +56,3 @@ plt.xlabel('Steps', fontsize=8)
 plt.ylabel('Score', fontsize=8)
 plt.legend(fontsize=12)
 plt.show()
-
-magit commit test
